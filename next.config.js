@@ -2,7 +2,7 @@
 module.exports = {
     reactStrictMode: true,
     env: {
-        FIREBASE_KEY: process.env.FIREBASE_KEY,
+        FIREBASE_API_KEY: process.env.FIREBASE_API_KEY,
         FIREBASE_DOMAIN: process.env.FIREBASE_DOMAIN,
         FIREBASE_DATABASE: process.env.FIREBASE_DATABASE,
         FIREBASE_PROJECT_ID: process.env.FIREBASE_PROJECT_ID,
